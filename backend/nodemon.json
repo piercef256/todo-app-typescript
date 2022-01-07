@@ -1,0 +1,5 @@
+{
+    "env": {
+        "MONGO_DB": "mongodb+srv://dbUser:dbUserpassword123@cluster0.85gzj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    }
+}
